@@ -1,8 +1,7 @@
 <h1 align="center">Hey, Im Mello</h1>
 <h3 align="center">C#, C++ Programmer, Indie Game Developer and a Modder</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mellozx" alt="Mellozx" />
+
 
 ## Languages I know/use
 
@@ -46,7 +45,6 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Mellozx&show_icons=true" alt="Mellozx" />
-  <img  align="center" src="https://github.com/Mellozx/Mellozx/blob/Master/gifs/gifexe.gif" width="720" height="480">
  </p>
 
 
